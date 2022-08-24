@@ -1,0 +1,27 @@
+500500
+Internal
+Alexandria
+Aswan
+5-3-2019 :: 7:30
+bus
+ManyStops
+33
+20
+500501
+Internal
+sharm
+hurghada
+25-1-2022  :: 1:00
+Limousine
+NonStop
+40
+50
+500502
+Internal
+Alexandria
+Aswan
+17-20-2019 :: 18:00
+MiniBus
+NonStop
+6
+20

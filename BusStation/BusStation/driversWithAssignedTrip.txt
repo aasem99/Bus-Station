@@ -1,0 +1,20 @@
+200
+ahmedfathy
+Drive Safely
+201
+omarfathy
+Drive Safely
+202
+amirhany
+TripNumber : 500502
+Type Of Trip : Internal
+from : Alexandria
+To : Aswan
+Date : 17-20-2019 :: 18:00
+Type Of Vehicle : MiniBus
+Type Of Stop : NonStop
+Num Of Available Seats : 6
+Price/Seat : 20
+
+
+Drive Safely
